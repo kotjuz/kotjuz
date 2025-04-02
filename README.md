@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Auto Poster**
 
-- 🌱 I’m currently learning **Go, AWS**
+- 🌱 I’m currently learning **Go, GCP**
 
 - 📫 How to reach me **rkotarski10@gmail.com**
 
